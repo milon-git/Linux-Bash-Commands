@@ -4580,12 +4580,13 @@ cht.sh keyword
 | [aichat](https://github.com/sigoden/aichat) | All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. |
 | [shell_gpt](https://github.com/TheR1D/shell_gpt) | A command-line productivity tool powered by AI large language models like GPT-4. |
 | [aider](https://github.com/paul-gauthier/aider) | AI pair programming in your terminal. |
-| [warp](https://github.com/warpdotdev/Warp) | Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. |
 | [plandex](https://github.com/plandex-ai/plandex) | AI driven development in your terminal. Designed for large, real-world tasks. |
+| [warp](https://github.com/warpdotdev/Warp) | Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. |
 | **Other Fun and Useful Shell Tools** |
 | [awesome-ttygames](https://github.com/ligurio/awesome-ttygames) | Unix ASCII games. |
 | [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) | A curated list of Terminal frameworks, plugins, and resources for CLI lovers. |
-| [awesome-fetch](https://github.com/beucismis/awesome-fetch) | Command-line fetch tools for system/other information . |
+| [awesome-fetch](https://github.com/beucismis/awesome-fetch) | Command-line fetch tools for system/other information. |
+| [awesome-console-services](https://github.com/chubin/awesome-console-services) | A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols). |
 
 </p>
  </details>
